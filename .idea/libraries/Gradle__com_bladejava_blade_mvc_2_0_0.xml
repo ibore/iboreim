@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bladejava:blade-mvc:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bladejava/blade-mvc/2.0.0/3b62c74aa46c683280af37c61ab5f0896a9a187d/blade-mvc-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bladejava/blade-mvc/2.0.0/b456b5e9b9b04d7c228680b34a1ec8965bb398b2/blade-mvc-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
