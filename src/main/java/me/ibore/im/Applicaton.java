@@ -10,6 +10,6 @@ public class Applicaton {
     public static void main(String[] args) {
         Blade blade = Blade.me();
         blade.listen(80);
-        blade.post("/", new Login()).start();
+        blade.get("/", new Login()).start();
     }
 }

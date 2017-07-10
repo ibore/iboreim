@@ -10,6 +10,7 @@ import com.blade.mvc.route.RouteHandler;
 public class Login implements RouteHandler {
     @Override
     public void handle(Request request, Response response) {
-        response.text("你好");
+        Integer uid = request.queryInt("uid").get();
+        response.text("uid : " + uid);
     }
 }
