@@ -7,7 +7,7 @@ import com.blade.mvc.route.RouteHandler;
 /**
  * Created by ibore on 2017/7/11.
  */
-public class BaseHandler implements RouteHandler {
+public abstract class BaseHandler implements RouteHandler {
     @Override
     public void handle(Request request, Response response) {
 
