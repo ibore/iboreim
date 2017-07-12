@@ -22,5 +22,7 @@ public class SimpleChatServerInitializer extends
 
         System.out.println("SimpleChatClient:"+ch.remoteAddress() +"连接上");
 
+
+
     }
 }
